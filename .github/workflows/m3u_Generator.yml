@@ -34,7 +34,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "quangtrungofficial@gmail.com"
-          git config --global user.name "chungplay"
+          git config --global user.name "365tv"
       
       
       - name: Main
