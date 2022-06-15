@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://fo2izhyijxvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2020/08/31/CHIEN_LANG/thumbnail/31082020151539/151541_chien_langt.jpg" group-title="Phim Lẻ Chọn Lọc", Chiến lang (VTC Now)
+https://vcv60b6khlvod.vcdn.cloud///mam/vtc/hop_tac/phim_le/2020/08/31/chien_lang/hls/1080p/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4_ntc/2020/12/24/812ia5ic_1920x1080-quanhanhquadu-khongtitle_1920_1080.webp" group-title="Phim Lẻ Chọn Lọc", Siêu nhanh  (VTC Now)
+https://fo2izhyijxvod.vcdn.cloud///mam/vtc/hop_tac/phim_le/2021/03/02/sieu_nhanh/hls/1080p/1080p.m3u8
