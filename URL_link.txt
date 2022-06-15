@@ -1,0 +1,24 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+YTN New HD |Kênh SOUTH KOREA| https://m.ytn.co.kr/img/live/tit_ytn.png |
+https://www.youtube.com/watch?v=GoXPbGQl-uQ
+YTN사이언스 HD |Kênh SOUTH KOREA| https://m.ytn.co.kr/img/program/channel_logo_S.png |
+https://www.youtube.com/watch?v=xfFa_kcPnCY
+YTN dmb HD |Kênh SOUTH KOREA| https://m.ytn.co.kr/img/program/channel_logo_D.png |
+https://www.youtube.com/watch?v=2C2WCLhDsR4
+KBS 24시 뉴스 |Kênh SOUTH KOREA| https://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png |
+https://www.youtube.com/watch?v=qnZDj2xNAOo
+Coronavirus Pandemic Real Time Live Streaming |Live YouTube 24/7| https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/1050/center/80/cd7bbe88-915e-47e9-82f4-3132d1d5498d-large16x9_coronaviruspandemic.png |
+https://www.youtube.com/watch?v=NMre6IAAAiU
+THE K-POP : 24/7 (K-POP 24시간 실시간 스트리밍 채널) |Live YouTube 24/7| https://i.ytimg.com/vi/F4aby5WN1Rw/maxresdefault.jpg |
+https://www.youtube.com/watch?v=F4aby5WN1Rw
+24/7 Online K-POP IDOL Channel [ALL THE K-POP] |Live YouTube 24/7| http://s1.dmcdn.net/u/6cy0k1X0uERkj9IF0/200x200 |
+https://www.youtube.com/watch?v=0-RirLdUYEE
+Korea.net 24/7 Live Streaming |Live YouTube 24/7| https://www.korea.net/renewal2019/img/logo.png |
+https://www.youtube.com/watch?v=-EQgBdBbFmw
+GB News 24/7 |Live YouTube 24/7| https://i.ytimg.com/vi/iCwQmXGxWLA/hq720.jpg |
+https://www.youtube.com/watch?v=iCwQmXGxWLA
+
+
