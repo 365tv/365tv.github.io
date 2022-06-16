@@ -1030,12 +1030,12 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u')
+                print('https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u')
                 return
             os.system(f'wget {url} -O temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u')
+                print('https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -1049,7 +1049,7 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1')
+print('#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1')
 print(banner)
 s = requests.Session()
 with open('../URL_link.txt') as f:
