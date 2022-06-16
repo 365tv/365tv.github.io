@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #EXTINF:-1 tvg-name="VTV1 HD - Thời sự tổng hợp" tvg-id="vtv1hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV1_HD_M.png" group-title="Kênh VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -1018,28 +1018,28 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/live/tit_ytn.png" tvg-id="", YTN New HD
-https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u
+https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_S.png" tvg-id="", YTN사이언스 HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642889449/ei/iSzsYcb5AsichwbIqauIDw/ip/23.96.105.145/id/xfFa_kcPnCY.1/source/yt_live_broadcast/requiressl/yes/tx/24027686/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNKeKp4R9bEtcr7It1atTNiYVaGzHqZL7u7_fByK_Z34CICiHCfGNfnEVzqkCpyz8D3K_EaYeF1AP0aXqQz7S5qKu/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655409879/ei/dzirYtbgMLiDsfIP9KiIgA0/ip/20.25.132.136/id/xfFa_kcPnCY.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzkCSlZs3US9eUB68TCD-keNiYQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAdefsWNe5kNl0C_LnmN3IFvfhNdL4sT3vVyquHOvr9cCIE6WDBpglo0M7eyXbAPfj-xa8D0PokfRkDfezcOidzB3/file/index.m3u8
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_D.png" tvg-id="", YTN dmb HD
-https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u
+https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" tvg-id="", KBS 24시 뉴스
-https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u
+https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/1050/center/80/cd7bbe88-915e-47e9-82f4-3132d1d5498d-large16x9_coronaviruspandemic.png" tvg-id="", Coronavirus Pandemic Real Time Live Streaming
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642889453/ei/jSzsYdeGGsT18gSHrJCYBQ/ip/23.96.105.145/id/NMre6IAAAiU.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANY6R4asidZBjuaITgCfNe4fBfVpW1Yf5HzECaRL2yJgAiEA8XAjYKlot-tkxa9QHps0WNMRH9jRa_7tzK-FfNBJEOk%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655409887/ei/fjirYtXVI5rDkgbjyKTIBw/ip/20.25.132.136/id/NMre6IAAAiU.7/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC1PVjjVdK1ZFu1GZCNvup8VmVuk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886218/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgViN_XKmkOIElyScgbgQeMYavu6wpErNuIONDDCv_qagCIQDlcp5LudSvX5ig3wMjr-u2pJWx3gWKtkWSO4X6R1BDpQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="https://i.ytimg.com/vi/F4aby5WN1Rw/maxresdefault.jpg" tvg-id="", THE K-POP : 24/7 (K-POP 24시간 실시간 스트리밍 채널)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642889453/ei/jSzsYbPHMZbyhgaWkZqQDA/ip/23.96.105.145/id/F4aby5WN1Rw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANwd87b96hXkIDpgw701O2V1LfgDAS-0ONOWY8C5uXj1AiAeRXBoMUvYxwdrOBKAHyyHJXsVFnmUgSb1L_NFln01oQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655409887/ei/fzirYq_oDrXAkwbEtZDoAQ/ip/20.25.132.136/id/F4aby5WN1Rw.2/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCyMsxJtR9VltbABmsODNKVQlXoU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJONOW5nThlLgKljk4FWgna0lLXBRldfsBDQi_EO6p9NAiEAqwAkMlrquLzJwQzLjIDabxtQdLDb3IyzcccuxKZTDCU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="http://s1.dmcdn.net/u/6cy0k1X0uERkj9IF0/200x200" tvg-id="", 24/7 Online K-POP IDOL Channel [ALL THE K-POP]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642889454/ei/jizsYZLHDZnnhwb54JPwBA/ip/23.96.105.145/id/0-RirLdUYEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgO2QbRPOA9SpE4dDw4e6hVFGsTYEN1nJ979ZfhqW2NjkCIQDm_dF_SWtGFP4bbo4_Fb5IJcs-tLwhR77i_cWycJc4wA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655409887/ei/fzirYqiGKc-Qkwbm9qqoBw/ip/20.25.132.136/id/0-RirLdUYEE.3/source/yt_live_broadcast/requiressl/yes/tx/24027683/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/4ocVC3JYZjnRzM9dnGKL9KfqeIa04v0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNgEjNP6Sy1lhU0etKgkDFFrTN2on3hCEjP0dgL3i_7ACIQDEko4GMoHwPLdrysQqLGNyNkKrHstztv30AMdkMaZfLQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="https://www.korea.net/renewal2019/img/logo.png" tvg-id="", Korea.net 24/7 Live Streaming
-https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u
+https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="https://i.ytimg.com/vi/iCwQmXGxWLA/hq720.jpg" tvg-id="", GB News 24/7
-https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u
+https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
