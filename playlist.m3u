@@ -1021,7 +1021,7 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_S.png" tvg-id="", YTN사이언스 HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683047656/ei/iPBQZIg90bvzBIKCDQ/ip/20.42.15.178/id/xfFa_kcPnCY.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALgzwPenuSizMyPBld1hKYPdAFdL15qsxz-1TydBwuv6AiEArF3F-gUulZDALxc5zrzV9RSof22HdBZQ6C_dAif3A8w%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683052447/ei/PwNRZOPRIMbAir4Phq66iAw/ip/104.210.132.167/id/xfFa_kcPnCY.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKlZG-w6Y1Xq11Oz3dpZ0QRCmW26K6twEQL9gefJ1kJzAiA1x63vJ4iw9eGnQApphKt5cvG7CwgqIDTY8fcyDDmk8g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_D.png" tvg-id="", YTN dmb HD
 https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
@@ -1033,7 +1033,7 @@ https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="https://i.ytimg.com/vi/F4aby5WN1Rw/maxresdefault.jpg" tvg-id="", THE K-POP : 24/7 (K-POP 24시간 실시간 스트리밍 채널)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683047665/ei/kfBQZOW1McTn8wS_-rqYAw/ip/20.42.15.178/id/F4aby5WN1Rw.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXNxpiLz77y0iUu2a4oqwBp43BvOj-HVTAm0mLm7BcYYCIQCetYMh6Gzd3a4-_O8-fqyrD_OLIv7sy626S4oUe9NEBg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683052455/ei/RwNRZOGwC4KrjQTB2ZzYBg/ip/104.210.132.167/id/F4aby5WN1Rw.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALrJhojfTOMpuh-Ge0MSiIPDYLz6MY7BoGsgp2MX-x9dAiAlhroXKMgNTXULY6cQFF7OqU1rcAZVubxxkJbhDzSj7A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="http://s1.dmcdn.net/u/6cy0k1X0uERkj9IF0/200x200" tvg-id="", 24/7 Online K-POP IDOL Channel [ALL THE K-POP]
 https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
