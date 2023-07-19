@@ -1021,7 +1021,7 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_S.png" tvg-id="", YTN사이언스 HD
-https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689815578/ei/ujW4ZLzdGZuhlu8PtNip6A0/ip/70.37.167.62/id/xfFa_kcPnCY.4/source/yt_live_broadcast/requiressl/yes/tx/24698584/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYlvQAsDG50xoe2SA95tJi2OSdsyGqmd7WVjrSZYlxv8MvV3BDUHIY-_JqyLUYkFIFWQ2vURqLncKG6pQmQRMW2zFKQw-E0G/spc/Ul2Sq91_adCP2qQptv4eN8DzAwjIRX--MyRGXg8AoA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMApGgmDeO56hgpksvCKXMNZSJHieG1RLRXPHDfobzL4CIQDb2Lx7tOH6VXMOshpwRUAKE0_NIXmI9cfjAIFKyg5mmw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_D.png" tvg-id="", YTN dmb HD
 https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
