@@ -1021,7 +1021,7 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_S.png" tvg-id="", YTN사이언스 HD
-https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720070420/ei/tNyFZpDqJNqJkucP6KmnwAk/ip/20.51.206.225/id/xfFa_kcPnCY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181251/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAU4pWA7BJssT9y7VAFSaw1NKYXdqPIdXGcGz9Vbkd_gp_7rESAkUTAdifag/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJWjP0Yi98AYWX3FA5MOIkN7DCtpy39lN2x-eZGPtb1MAiEAqrBvOBTZDrU8-8DRoiHlKZei1QXcF82IcHilfp1SYFY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_D.png" tvg-id="", YTN dmb HD
 https://raw.githubusercontent.com/365tv/365tv.github.io/main/assets/chung_na.m3u
